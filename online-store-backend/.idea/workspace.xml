@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a08e0fa2-e666-4d0a-895a-966b28b0b029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/controller/rest-client.env.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/SpringSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/DatabaseUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JwtProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="onlinestore/invalid/JPA" />
+      <facet id="onlinestore/invalid/Spring" />
+      <facet id="onlinestore/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Serban\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gLfDxp5lvZWVwVlhijzqrYZKI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online-store-frontend" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore\controller" />
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore\security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlinestoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rosu.onlinestore.OnlinestoreApplication" />
+      <module name="onlinestore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rosu.onlinestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlinestoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Serban\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08e0fa2-e666-4d0a-895a-966b28b0b029" name="Default Changelist" comment="" />
+      <created>1597898677430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597898677430</updated>
+      <workItem from="1598315119742" duration="100000" />
+      <workItem from="1598344531494" duration="749000" />
+      <workItem from="1598345606252" duration="436000" />
+      <workItem from="1598346633082" duration="165000" />
+      <workItem from="1598390343619" duration="880000" />
+    </task>
+    <task id="LOCAL-00001" summary="join tables">
+      <created>1598032868504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598032868504</updated>
+    </task>
+    <task id="LOCAL-00002" summary="join tables update">
+      <created>1598034196191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598034196191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implement repository">
+      <created>1598047302891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598047302891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update service">
+      <created>1598684982439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598684982439</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update service">
+      <created>1598685145081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598685145081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="join tables" />
+    <MESSAGE value="join tables update" />
+    <MESSAGE value="implement repository" />
+    <MESSAGE value="update service" />
+    <option name="LAST_COMMIT_MESSAGE" value="update service" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1598345548100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598345548100" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1598688503720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598688503720" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1598685144245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598685144245" />
+    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1598696516220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598696516220" />
+    <state x="558" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1598032064095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598032064095" />
+    <state x="337" y="70" key="Github.UntrackedFilesDialog" timestamp="1598032073316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598032073316" />
+    <state width="1323" height="11" key="GridCell.Tab.0.bottom" timestamp="1598694890156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598694890156" />
+    <state width="1323" height="11" key="GridCell.Tab.0.center" timestamp="1598694890155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598694890155" />
+    <state width="1323" height="11" key="GridCell.Tab.0.left" timestamp="1598694890155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598694890155" />
+    <state width="1323" height="11" key="GridCell.Tab.0.right" timestamp="1598694890156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="11" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598694890156" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1597899937764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1597899937764" />
+    <state x="348" y="64" key="NewModule_or_Project.wizard" timestamp="1598390561121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598390561121" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1598390515442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598390515442" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1598685158871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598685158871" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598695777476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598695777476" />
+    <state x="379" y="156" key="git4idea.merge.GitPullDialog" timestamp="1597901338724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1597901338724" />
+    <state x="497" y="259" key="git4idea.ui.GitResetDialog" timestamp="1597901075710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="497" y="259" key="git4idea.ui.GitResetDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1597901075710" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598179980723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598179980723" />
+    <state x="513" y="156" key="svn.repositoryBrowser" timestamp="1597901059843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="156" key="svn.repositoryBrowser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1597901059843" />
+  </component>
+</project>

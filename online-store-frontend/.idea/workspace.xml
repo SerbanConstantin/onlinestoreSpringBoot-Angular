@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f280755b-a8cc-49a2-ad22-06bd1b97ac15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/OrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/OrderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductCategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/DatabaseUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/JwtProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/vo/response/CategoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/vo/response/CategoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../online-store-backend" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="onlinestore/invalid/JPA" />
+      <facet id="onlinestore/invalid/Spring" />
+      <facet id="onlinestore/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gbkDuAbdEoRVnP5XlRGBv7JmyT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online-store-backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore" />
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\resources\static" />
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore\controller" />
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore\security\JWT" />
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\java\com\rosu\onlinestore\enums" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rosu.onlinestore.exception" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Serban\Desktop\online-store\online-store-backend\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OnlinestoreApplication">
+    <configuration name="OnlinestoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rosu.onlinestore.OnlinestoreApplication" />
+      <module name="onlinestore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rosu.onlinestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E2E Tests (online-store-frontend)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="OnlinestoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="onlinestore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rosu.onlinestore.OnlinestoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlinestoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f280755b-a8cc-49a2-ad22-06bd1b97ac15" name="Default Changelist" comment="" />
+      <created>1598390579478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598390579478</updated>
+      <workItem from="1598390580979" duration="651000" />
+      <workItem from="1598435877976" duration="54000" />
+      <workItem from="1598436410948" duration="26000" />
+      <workItem from="1598436463647" duration="736000" />
+      <workItem from="1598544574216" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598533967625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598533967625" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1598435076924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598435076924" />
+    <state x="463" y="74" key="FileChooserDialogImpl" timestamp="1598781839221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="74" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781839221" />
+    <state x="558" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1598435577577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598435577577" />
+    <state width="1323" height="185" key="GridCell.Tab.0.bottom" timestamp="1598781855275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
+    <state width="1323" height="185" key="GridCell.Tab.0.center" timestamp="1598781855275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
+    <state width="1323" height="185" key="GridCell.Tab.0.left" timestamp="1598781855275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
+    <state width="1323" height="185" key="GridCell.Tab.0.right" timestamp="1598781855275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1598533193804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598533193804" />
+    <state x="348" y="64" key="NewModule_or_Project.wizard" timestamp="1598781847142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781847142" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1598514921053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598514921053" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598769780438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598769780438" />
+  </component>
+</project>
