@@ -1,6 +1,7 @@
 package com.rosu.onlinestore.security;
 
-import com.rosu.onlinecatalog.model.User;
+
+import com.rosu.onlinestore.model.User;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -29,7 +30,7 @@ public class CustomUserDetails implements UserDetails {
 
     @Override
     public String getUsername() {
-        return user.getUsername();
+        return user.getEmail();
     }
 
     @Override

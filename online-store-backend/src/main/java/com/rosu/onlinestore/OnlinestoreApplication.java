@@ -1,7 +1,9 @@
 package com.rosu.onlinestore;
 
 import com.rosu.onlinestore.model.ProductCategory;
+import com.rosu.onlinestore.model.User;
 import com.rosu.onlinestore.repository.ProductCategoryRepository;
+import com.rosu.onlinestore.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -23,6 +25,9 @@ public class OnlinestoreApplication implements CommandLineRunner {
 	@Autowired
 	private ProductCategoryRepository productCategoryRepository;
 
+	@Autowired
+	private UserRepository userRepository;
+
 	public static void main(String[] args) {
 		SpringApplication.run(OnlinestoreApplication.class, args);
 	}
@@ -30,10 +35,16 @@ public class OnlinestoreApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
+		User user = new User();
+		user.setActive(true);
+		user.setEmail("admin");
+		user.setPassword(passwordEncoder().encode("admin"));
+
+		userRepository.save(user);
+
 		ProductCategory productCategory = new ProductCategory();
 		productCategory.setCategoryName("Caramida");
 		productCategory.setCategoryType(10);
-
 
 		ProductCategory productCategory2 = new ProductCategory();
 		productCategory2.setCategoryName("Tencuieli");

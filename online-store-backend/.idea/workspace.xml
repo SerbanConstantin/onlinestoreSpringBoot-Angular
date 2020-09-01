@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a08e0fa2-e666-4d0a-895a-966b28b0b029" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/controller/rest-client.env.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JWT/JwtProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/SpringSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/CustomUserDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/DatabaseUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/JwtProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rosu/onlinestore/security/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-frontend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-frontend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../online-store-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-frontend/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -185,10 +176,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598685144245" />
-    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1598696516220">
+    <state x="462" y="107" key="FileChooserDialogImpl" timestamp="1598786079250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598696516220" />
+    <state x="462" y="107" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598786079250" />
     <state x="558" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1598032064095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

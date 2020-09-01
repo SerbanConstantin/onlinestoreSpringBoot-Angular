@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f280755b-a8cc-49a2-ad22-06bd1b97ac15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/OnlinestoreApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/CartController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/OrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/OrderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/model/ProductCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductCategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductCategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/ProductInfoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/CustomUserDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/DatabaseUserDetailsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/JwtProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/security/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CartServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/vo/response/CategoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/java/com/rosu/onlinestore/vo/response/CategoryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../online-store-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../online-store-backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/onlinestoreSpringBoot+Angular.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/onlinestoreSpringBoot+Angular.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +15,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../online-store-backend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -61,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gbkDuAbdEoRVnP5XlRGBv7JmyT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,9 +49,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online-store-backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -172,30 +150,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598435076924" />
-    <state x="463" y="74" key="FileChooserDialogImpl" timestamp="1598781839221">
+    <state x="463" y="74" key="FileChooserDialogImpl" timestamp="1598791727191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="74" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781839221" />
+    <state x="463" y="74" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791727191" />
     <state x="558" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1598435577577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="558" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598435577577" />
-    <state width="1323" height="185" key="GridCell.Tab.0.bottom" timestamp="1598781855275">
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom" timestamp="1598791582923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
-    <state width="1323" height="185" key="GridCell.Tab.0.center" timestamp="1598781855275">
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791582923" />
+    <state width="1323" height="68" key="GridCell.Tab.0.center" timestamp="1598791582923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="185" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
-    <state width="1323" height="185" key="GridCell.Tab.0.left" timestamp="1598781855275">
+    <state width="1323" height="68" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791582923" />
+    <state width="1323" height="68" key="GridCell.Tab.0.left" timestamp="1598791582923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="185" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
-    <state width="1323" height="185" key="GridCell.Tab.0.right" timestamp="1598781855275">
+    <state width="1323" height="68" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791582923" />
+    <state width="1323" height="68" key="GridCell.Tab.0.right" timestamp="1598791582923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="185" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781855275" />
+    <state width="1323" height="68" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791582923" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1598533193804">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -204,13 +182,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598781847142" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1598514921053">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1598958467031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598514921053" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598769780438">
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791664642" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598958467031" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598791642125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598769780438" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1598791642125" />
   </component>
 </project>
